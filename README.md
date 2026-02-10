@@ -1,16 +1,22 @@
-## Hi there 👋
+# 👋 Hello, I'm Lilou!
 
-<!--
-**LilouDgt/LilouDgt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Data enthusiast turning SQL queries and Python scripts into stories, insights, and fun projects.**  
 
-Here are some ideas to get you started:
+I love diving deep into data, building dashboards, and exploring patterns across industries—from Gaming to Banking.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌍 **Around the world:** Paris → Beijing → Lisbon → Barcelona → Montreal  
+💻 **Tech & Tools:** SQL | Python | Pandas | Power BI | Looker | Data Visualization | Dashboards  
+📊 **Fun fact:** I turn messy data into meaningful stories you can actually use  
+
+Check out my experiments and projects below!  
+
+---
+
+## 📫 Connect with me
+- LinkedIn: https://www.linkedin.com/in/lilou-dangthai
+- Email: lilou_dgt@yahoo.com
+- Portfolio/GitHub: https://github.com/LilouDgt
+
+---
+
+✨ Always learning. Always exploring. Always curious.
