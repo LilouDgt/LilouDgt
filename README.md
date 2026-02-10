@@ -15,8 +15,7 @@ Check out my experiments and projects below!
 ## 📫 Connect with me
 - LinkedIn: https://www.linkedin.com/in/lilou-dangthai
 - Email: lilou_dgt@yahoo.com
-- Portfolio/GitHub: https://github.com/LilouDgt
-
+  
 ---
 
 ✨ Always learning. Always exploring. Always curious.
